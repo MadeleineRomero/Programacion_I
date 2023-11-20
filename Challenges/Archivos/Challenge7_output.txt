@@ -1,15 +1,4 @@
-Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-Nulla euismod felis sit amet turpis elementum pulvinar.
-Praesent interdum dui accumsan libero rutrum, sit amet vehicula ligula eleifend.
-Etiam interdum sem id laoreet viverra.
-Nulla sed diam eu dui consequat tristique.
-Quisque ac elit eu velit gravida sodales.
-Integer malesuada metus ut metus consectetur, a euismod augue aliquam.
-Sed aliquam ex id libero porta, non lacinia felis bibendum.
-Morbi eleifend sem eu molestie fringilla.
-In bibendum mauris a commodo iaculis.
-Aenean luctus neque a fringilla egestas.
-Nullam feugiat est at dui sodales rhoncus.
-Nunc in tortor tincidunt mi luctus egestas sit amet vel metus.
-Nullam at velit id felis congue volutpat in eget sem.
-Fusce in dolor aliquet, dictum ligula laoreet, ultricies risus.
+El reto de hoy nos lleva al corazón de la gestión de archivos y la manipulación de texto con un toque de personalización. En un mundo inundado de datos, a menudo nos encontramos en la necesidad de filtrar y refinar la información que fluye a través de nuestros documentos digitales. Ya sea que estés depurando logs, limpiando datos o simplemente organizando tu contenido, la habilidad para excluir información irrelevante es esencial.
+En esta tarea, no sólo pondrás a prueba tus habilidades de programación, sino también tu capacidad para ofrecer soluciones personalizadas que respondan a las necesidades específicas del usuario. El script que crearás actúa como un filtro inteligente, un guardián que distingue entre lo que debe ser conservado y lo que debe ser descartado.
+Para superar este desafío, deberás escribir un script que pregunte al usuario por esa palabra non grata y proceda meticulosamente a copiar el archivo fuente línea por línea, omitiendo aquellas que contienen el término prohibido. Esta tarea no sólo es un ejercicio de codificación, sino también una lección en la creación de herramientas personalizables que empoderan al usuario para que tome el control de su información.
+¿Estás listo para tomar la responsabilidad de este poder de filtrado y ejecutar la tarea con la precisión de un experto? Prepárate para sumergirte en el código y tejer un programa que no sólo copia texto, sino que también imparte justicia a las palabras, permitiendo sólo a las más deseables pasar a través de sus puertas.
